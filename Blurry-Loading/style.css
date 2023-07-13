@@ -5,7 +5,7 @@
 }
 
 body {
-  font-family: "Roboto", "sans-serif";
+  font-family: "Prompt", "sans-serif";
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -13,4 +13,8 @@ body {
   margin: 0;
   height: 100vh;
   overflow: hidden;
+}
+
+.bg {
+  background: url("https://images.unsplash.com/photo-1568992687947-868a62a9f521?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1032&q=80");
 }
