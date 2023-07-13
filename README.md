@@ -12,5 +12,6 @@ Under the guidance of an experienced instructor, I delved into different aspects
 | Expanding Cards | [File Link](https://github.com/Lucaraso/50Projects-50Days/tree/main/Expanding-Cards) | [Live Demo](https://lucaraso.github.io/50Projects-50Days/Expanding-Cards/)|
 | Progress Steps | [File Link](https://github.com/Lucaraso/50Projects-50Days/tree/main/Progress-Steps) | [Live Demo](https://lucaraso.github.io/50Projects-50Days/Progress-Steps/)|
 | Rotating Navigation | [File Link](https://github.com/Lucaraso/50Projects-50Days/tree/main/Rotating-Navigation) | [Live Demo](https://lucaraso.github.io/50Projects-50Days/Rotating-Navigation/)|
+| Hidden Search | [File Link](https://github.com/Lucaraso/50Projects-50Days/tree/main/Search-Widget) | [Live Demo](https://lucaraso.github.io/50Projects-50Days/Search-Widget/)|
 
 
