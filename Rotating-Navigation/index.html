@@ -3,12 +3,67 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>My Starter Project</title>
+        <title>Rotating Navigation</title>
         <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet"
+            href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+            integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+            crossorigin="anonymous" referrerpolicy="no-referrer" />
     </head>
     <body>
-        <h1>Project Starter</h1>
+        <div class="container">
+            <div class="circle-container">
+                <div class="circle">
+                    <button id="close">
+                        <i class="fas fa-times"></i>
+                    </button>
+                    <button id="open">
+                        <i class="fas fa-bars"></i>
+                    </button>
+                </div>
+            </div>
 
+            <div class="content">
+                <h1>Amazing Article</h1>
+                <small> - Florin Pop</small>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Et
+                    odio possimus tempora eligendi temporibus, omnis repellendus
+                    iure sint, ex qui, saepe debitis adipisci optio. A delectus
+                    neque maiores repudiandae iure mollitia repellat modi et
+                    reiciendis quos. Ab quo, quas labore, enim iste nihil
+                    dolorem, quasi consectetur reiciendis officiis omnis eos
+                    voluptatum velit id ad impedit tempora corrupti eaque
+                    accusamus voluptas iusto mollitia. Ea veritatis architecto
+                    tenetur odit vel molestias harum recusandae earum
+                    dignissimos illum veniam nostrum ipsam omnis cupiditate
+                    nulla dolorum laudantium eveniet, perspiciatis esse modi eum
+                    aut maiores ullam excepturi? Dolorum eaque id non officia
+                    repudiandae fugit officiis exercitationem!</p>
+
+                <h3>My Dog</h3>
+                <img
+                    src="https://images.unsplash.com/photo-1561037404-61cd46aa615b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80" alt = "Dog">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                    Dolorum repellendus vitae repudiandae voluptate dolores rem
+                    iste harum sit tempora totam blanditiis labore quos eaque
+                    illo consectetur ducimus, ullam earum veritatis cumque
+                    perspiciatis reprehenderit? Quaerat reiciendis voluptas
+                    quisquam fugiat aliquam asperiores quia ipsum eos ipsa
+                    consequatur placeat mollitia animi magni autem voluptatem
+                    delectus corporis dolor tenetur amet maxime, ea hic
+                    laudantium! Commodi corporis animi incidunt beatae eveniet
+                    ducimus nisi nemo tempora. Suscipit ipsam aliquid aliquam
+                    ut.</p>
+            </div>
+        </div>
+
+            <nav>
+                <ul>
+                    <li><i class="fas fa-home"></i>Home</li>
+                    <li><i class="fas fa-user-alt"></i>About</li>
+                    <li><i class="fas fa-envelope"></i>Contact</li>
+                </ul>
+            </nav>
         <script src="script.js"></script>
     </body>
 </html>
