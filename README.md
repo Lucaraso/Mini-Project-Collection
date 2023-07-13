@@ -1,4 +1,4 @@
-# 50Projects-50Days <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/calendar-days.svg">
+# 50Projects-50Days
 
 "50 Projects in 50 Days" is a collection of projects that I completed as part of a guided web development course. Over the span of 50 days, I worked on various mini-projects using HTML, CSS, and JavaScript, documenting my progress on GitHub and adding my own creative touch to each of them.
 
