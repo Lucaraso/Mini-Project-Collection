@@ -14,6 +14,6 @@ Under the guidance of an experienced instructor, I delved into different aspects
 | Rotating Navigation | [File Link](https://github.com/Lucaraso/50Projects-50Days/tree/main/Rotating-Navigation) | [Live Demo](https://lucaraso.github.io/50Projects-50Days/Rotating-Navigation/)|
 | Hidden Search | [File Link](https://github.com/Lucaraso/50Projects-50Days/tree/main/Search-Widget) | [Live Demo](https://lucaraso.github.io/50Projects-50Days/Search-Widget/)|
 | Blurry Loading | [File Link](https://github.com/Lucaraso/50Projects-50Days/tree/main/Blurry-Loading) | [Live Demo](https://lucaraso.github.io/50Projects-50Days/Blurry-Loading/)|
-| Blurry Loading | [File Link](https://github.com/Lucaraso/50Projects-50Days/tree/main/Recipe-Card%20(Bonus)) | [Live Demo](https://lucaraso.github.io/50Projects-50Days/Recipe-Card%20(Bonus)/)|
+| Recipe Card (Bonus) | [File Link](https://github.com/Lucaraso/50Projects-50Days/tree/main/Recipe-Card%20(Bonus)) | [Live Demo](https://lucaraso.github.io/50Projects-50Days/Recipe-Card%20(Bonus)/)|
 
 
