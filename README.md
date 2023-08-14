@@ -9,11 +9,11 @@ Under the guidance of an experienced instructor, I delved into different aspects
 
 | Project Name | File | Live Demo |
 | ------------ | ---- | --------- |
-| Expanding Cards | [File Link](https://github.com/Lucaraso/50Projects-50Days/tree/main/Expanding-Cards) | [Live Demo](https://lucaraso.github.io/50Projects-50Days/Expanding-Cards/)|
-| Progress Steps | [File Link](https://github.com/Lucaraso/50Projects-50Days/tree/main/Progress-Steps) | [Live Demo](https://lucaraso.github.io/50Projects-50Days/Progress-Steps/)|
-| Rotating Navigation | [File Link](https://github.com/Lucaraso/50Projects-50Days/tree/main/Rotating-Navigation) | [Live Demo](https://lucaraso.github.io/50Projects-50Days/Rotating-Navigation/)|
-| Hidden Search | [File Link](https://github.com/Lucaraso/50Projects-50Days/tree/main/Search-Widget) | [Live Demo](https://lucaraso.github.io/50Projects-50Days/Search-Widget/)|
-| Blurry Loading | [File Link](https://github.com/Lucaraso/50Projects-50Days/tree/main/Blurry-Loading) | [Live Demo](https://lucaraso.github.io/50Projects-50Days/Blurry-Loading/)|
-| Recipe Card (Bonus) | [File Link](https://github.com/Lucaraso/50Projects-50Days/tree/main/Recipe-Card%20(Bonus)) | [Live Demo](https://lucaraso.github.io/50Projects-50Days/Recipe-Card%20(Bonus)/)|
+| Expanding Cards | [File Link](https://github.com/Lucaraso/50Projects-50Days/tree/main/Expanding-Cards) | [Live Demo](https://lucaraso.github.io/Mini-Project-Collection/Expanding-Cards/)|
+| Progress Steps | [File Link](https://github.com/Lucaraso/50Projects-50Days/tree/main/Progress-Steps) | [Live Demo](https://lucaraso.github.io/Mini-Project-Collection/Progress-Steps/)|
+| Rotating Navigation | [File Link](https://github.com/Lucaraso/50Projects-50Days/tree/main/Rotating-Navigation) | [Live Demo](https://lucaraso.github.io/Mini-Project-Collection/Rotating-Navigation/)|
+| Hidden Search | [File Link](https://github.com/Lucaraso/50Projects-50Days/tree/main/Search-Widget) | [Live Demo](https://lucaraso.github.io/Mini-Project-Collection/Search-Widget/)|
+| Blurry Loading | [File Link](https://github.com/Lucaraso/50Projects-50Days/tree/main/Blurry-Loading) | [Live Demo](https://lucaraso.github.io/Mini-Project-Collection/Blurry-Loading/)|
+| Recipe Card (Bonus) | [File Link](https://github.com/Lucaraso/DaysMini-Project-Collection/tree/main/Recipe-Card%20(Bonus)) | [Live Demo](https://lucaraso.github.io/Mini-Project-Collection/Recipe-Card%20(Bonus)/)|
 
 
